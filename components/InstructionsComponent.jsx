@@ -11,20 +11,6 @@ export default function InstructionsComponent() {
 				<p>
 				</p>
 			</header>				
-				
-			</div>
-			<div className={styles.footer}>
-				
-				<div className={styles.icons_container}>
-
-					<div>
-						<a
-							href="https://twitter.com/7SinzToken"
-							target={"_blank"}
-						>
-							Follow us on Twitter
-						</a>
-					</div>
 				</div>
 			</div>
 		</div>
